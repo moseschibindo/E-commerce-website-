@@ -1,0 +1,11 @@
+
+{
+  "name": "HarMarket Kenya",
+  "short_name": "HarMarket",
+  "description": "Premium local marketplace for Nakuru and Egerton University. Secure, verified listings for students and residents.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "requestFramePermissions": []
+}
